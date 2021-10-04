@@ -1,0 +1,14 @@
+{% extends "section.html" %}
+{% block innercontent %}
+
+{% for page in section.pages %}
+<h1><a href="{{ get_url(path=page.path) | safe }}/">{{ page.title }}</a></h1>
+
+<ul>
+{% for change in page.toc %}
+<li>{{ change.title }}</li>
+{% endfor %}
+</ul>
+
+{% endfor %}
+{% endblock innercontent %}
