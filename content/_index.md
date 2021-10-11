@@ -39,7 +39,7 @@ Les commandes sont à faire avant le  dimanche 14 novembre 2021
 - **Morbier bio** en sixième de meule (1 kg) à 13€ le kilo.
 
 <div class="box is-primary">
- Commandes à faire à  villecamp@davionbertrand.net
+ Commandes à faire à  <a href="mailto:villecamp@davionbertrand.net"> :villecamp@davionbertrand.net </a>
 </div>
 
 
@@ -60,7 +60,7 @@ Les commandes sont à faire avant le  dimanche 14 novembre 2021
     - Saucisson à l’ail  sous vide (poids entre 350 et 400gr à 20€/Kg)
 
 <div class="box is-primary">
-Commande à faire à <b>Jean-Emile Sanchez</b>  et <b>Isabelle Andrault</b> par tel. 06 48 35 14 48 / 06 42 09 61 02 ou par courriel à fermedemalescalier@hotmail.fr
+Commande à faire à <b>Jean-Emile Sanchez</b>  et <b>Isabelle Andrault</b> par tel. 06 48 35 14 48 / 06 42 09 61 02 ou par courriel à <a href="mailto:fermedemalescalier@hotmail.fr"> fermedemalescalier@hotmail.fr </a>
 </div>
 {% end %}
 
@@ -78,17 +78,17 @@ Commande à faire à <b>Jean-Emile Sanchez</b>  et <b>Isabelle Andrault</b> par 
     - 1 queue à 12 €/kg
 
 <div class="box is-primary">
-Commande à faire à Henri DARDE et Marion par tél. 06 07 12 18 86 ou par courriel au gaecdesaqui@yahoo.fr
+Commande à faire à Henri DARDE et Marion par tél. 06 07 12 18 86 ou par courriel au gaec<a href="mailto:desaqui@yahoo.fr"> desaqui@yahoo.fr </a>
 </div>
 {% end %}
-
+n
 {% section(class="has-background-grey-lighter") %}
 ## L’agneau biologique du QUERCY de Clément AILLET (bio depuis 1994)
 
 **Carton d’un demi-agneau** (7 à 10 kg) à 16€/kg sous-vide et étiqueté morceaux et poids - 13 côtelettes, gigot, collier, poitrine, épaule, les abats sur demande,
 
 <div class="box is-primary">
-Commande à faire à Clément au 06 14 64 18 53 ou par courriel : ailletclement@gmail.com
+Commande à faire à Clément au 06 14 64 18 53 ou par courriel : <a href="mailto:ailletclement@gmail.com"> ailletclement@gmail.com </a>
 </div>
 
 {% end %}
@@ -103,7 +103,7 @@ Commande à faire à Clément au 06 14 64 18 53 ou par courriel : ailletclement@
 - **Pâtes  300 gr** : Pates à potage, Tagliatelles à 2.2€/paquet,  Linguinis à 2.3€
 
 <div class="box is-primary">
-Commande à faire à Laurent, Odile, Francis par tél. 05 65 65 77 43 ou par courriel : gaecdumarigot@gmail.com
+Commande à faire à Laurent, Odile, Francis par tél. 05 65 65 77 43 ou par courriel : <a href="mailto:gaecdumarigot@gmail.com" > gaecdumarigot@gmail.com </a>
 </div>
 
 {% end %}
@@ -117,7 +117,7 @@ Commande à faire à Laurent, Odile, Francis par tél. 05 65 65 77 43 ou par cou
 - Pays de Cocagne 4.5€ (multifloral = dominante tournesol)
 
 <div class="box is-primary">
-Commande à faire à Cyril par tel. 06 88 96 04 86 ou par courriel à viala.apiculture@gmail.com
+Commande à faire à Cyril par tel. 06 88 96 04 86 ou par courriel à <a href="mailto:viala.apiculture@gmail.com">viala.apiculture@gmail.com </a>
 </div>
 {% end %}
 
@@ -152,7 +152,7 @@ Commande à faire à Cyril par tel. 06 88 96 04 86 ou par courriel à viala.apic
 - Baies de Goji : 2kg: 33€
 
 <div class="box is-primary">
-Commande à faire à Nicolas par tel. 06 11 48 30 63 ou par courriel contact@ethikessence.com
+Commande à faire à Nicolas par tel. 06 11 48 30 63 ou par courriel <a href="mailto:contact@ethikessence.com"> contact@ethikessence.com </a>
 </div>
 
 {% end %}
@@ -170,7 +170,7 @@ Commande à faire à Nicolas par tel. 06 11 48 30 63 ou par courriel contact@eth
 
 Paniers cadeaux sur place.
 <div class="box is-primary">
-Commande à faire à Nadia par tél. 06 68 46 82 49 ou par courriel à : nadia.angeli31@gmail.com
+Commande à faire à Nadia par tél. 06 68 46 82 49 ou par courriel à : <a href="maito:nadia.angeli31@gmail.com"> nadia.angeli31@gmail.com </a>
 </div>
 {% end %}
 
