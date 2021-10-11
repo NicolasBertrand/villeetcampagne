@@ -173,8 +173,5 @@ Paniers cadeaux sur place.
 Commande à faire à Nadia par tél. 06 68 46 82 49 ou par courriel à : nadia.angeli31@gmail.com
 </div>
 {% end %}
-## Boulangerie Patapain
-
-## Farine moulin GAEC de Saint Isidore
 
 
