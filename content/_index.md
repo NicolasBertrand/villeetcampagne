@@ -48,12 +48,13 @@ Les commandes sont à faire avant le  dimanche 14 novembre 2021
 {% section(class="has-background-grey-lighter") %}
 ## Ferme de MALESCALIER
 
-- **Le cochon plein air** de la montagne noire : en colis sous vide de 5kg à 6kg environ (2 rôtis, sauté, côtes et saucisse fraîche) à 13€ le kg,
+- **Le cochon plein air** de la montagne noire : en colis sous vide de 5kg à 6kg environ (2 rôtis, sauté, côtes et saucisse fraîche) à 13,50€ le kg,
 - **La charcuterie**:
     - Fromages de tête (180gr 4€/ 280gr 6€)
     - pâtés de campagne (180gr 4€)
     - pâtés au vin blanc (180gr 5€)
-    - pâtés aux baies genièvre (180gr 5€)
+    - pâtés aux baies genièvre (180gr 5€
+    - pâtés de foie à l’armagnac (180gr 5€)
     - jambonneaux (280gr 7€)
     - rillettes porc (180gr 6€)
     - rillettes lapin (180gr 6€)
@@ -77,11 +78,16 @@ Commande à faire à <b>Jean-Emile Sanchez</b>  et <b>Isabelle Andrault</b> par 
     - langue 12 €/kg
     - 1 queue à 12 €/kg
 
+- Fromage bio de vache:
+    - Tomme fraiche (pour aligot, truffade, pizza…) à 14€ le Kg
+    - Tomme affinée nature à 17€ le Kg.
+    - Tartinade (fromage frais aromatisé à tartiner) 3 choix: ail et fines herbes, bruschetta (tomate origan) et duo de poivrons, pot de 200g à 3€.
+
 <div class="box is-primary">
-Commande à faire à Henri DARDE et Marion par tél. 06 07 12 18 86 ou par courriel au gaec<a href="mailto:desaqui@yahoo.fr"> desaqui@yahoo.fr </a>
+Commande à faire à **Henri DARDE et Marion** par tél. 06 07 12 18 86 ou par courriel au gaec<a href="mailto:gaecdesaqui@yahoo.fr"> gaecdesaqui@yahoo.fr </a>
 </div>
 {% end %}
-n
+
 {% section(class="has-background-grey-lighter") %}
 ## L’agneau biologique du QUERCY de Clément AILLET (bio depuis 1994)
 
@@ -110,9 +116,9 @@ Commande à faire à Laurent, Odile, Francis par tél. 05 65 65 77 43 ou par cou
 
 {% section(class="has-background-grey-lighter") %}
 ## Miel de l’Abeille de Cadix du TARN en pot de 500 gr :
-- Acacia 8€,
-- Sidobre 6.5€ (multifloral = chataîgnier et tilleul),
-- Chatagnier 6.5€,
+- Acacia 8€
+- Sidobre 6.5€ (multifloral = chataîgnier et tilleul)
+- Chatagnier 6.5€
 - Montagne noire 6.5€ (multifloral = ronce, bruyère et autres fleurs sauvages)
 - Pays de Cocagne 4.5€ (multifloral = dominante tournesol)
 
@@ -125,31 +131,32 @@ Commande à faire à Cyril par tel. 06 88 96 04 86 ou par courriel à <a href="m
 ## Fruits secs BIO de NICOLAS
 
 - Amandes décortiquées (Sicile) : 250g : 5,75€ / 2Kg : 28€
-- Noisettes décortiquées : 250g : 4.90€ / 2kg : 26.90€
-- Noix de cajou (Sénégal) : 250g : 4.95€ / 2Kg : 30€
+- Noisettes décortiquées : 250g : 5€ / 2kg : 26.90€
+- Noix de cajou (Sénégal) : 250g : 5€ / 2Kg : 30€
 - Noix de cajou grillée Nature ou Noix de cajou grillée au Sel : 2Kg : 32€
 - Noix de cajou Brisées : 2Kg : 21.90€
-- Noix du Brésil : 2Kg : 32€
-- Cerneaux de noix: 250g:5€ / 2kg:25€
-- Pistaches en coques grillées Salées: 1kg: 20€
-- Abricots secs : 1kg: 9.50€
-- Figues Lérida: 1kg:9.50€
-- Noix de Macadamia : 100g : 4.25€ / 1Kg : 30€
+- Noix du Brésil : 2Kg : 34€
+- Cerneaux de noix: 250g:5€ / 2kg:27€
+- Pistaches en coques grillées Salées: 1kg: 21€
+- Abricots secs : 1kg: 10.50€
+- Figues Lérida: 1kg:10€
+- Noix de Macadamia : 100g : 4.50€ / 1Kg : 30€
 - Arachides salée : 250g 3.50€ / 1kg : 8.50€
-- Mangue séchée : 200g 4.50€ / 2kg : 26€
-- Gingembre confit cube : 100g : 2.30€ / 2Kg : 21€
-- Ananas séché Rondelles Pleines : 1Kg : 17€
+- Mangue séchée : 200g 4.90€ / 2kg : 29€
+- Gingembre confit cube : 100g : 2.30€ / 2Kg : 21
+- Ananas séché Rondelles Pleines : 1Kg : 18€
 - Mélange de fruits secs : 250g : 4.50€ / 2kg : 25€
-- Cranberries : 250g : 4.75€ / 2Kg : 25.9€
+- Cranberries : 250g : 4.75€ / 2Kg : 26€
 - Bananes séchées : 250g : 4€ / 2.5Kg : 24.50€
 - Dattes Mazafati : 400g : 5.50€
 - Dattes Medjool : 2Kg : 25.50€/61€
-- Quinoa blanche: 2kg : 12.90€;
+- Quinoa blanche: 2kg : 12.90€
 - Riz Basmati semi complet (pakistan): 2kg : 9.50€
 - Sucre de Fleur coco: 2kg : 15.80€
 - Graine de Chia: 2kg : 15.80
-- Graines de courge: 2kg : 15.50;
+- Graines de courge: 2kg : 15.50
 - Baies de Goji : 2kg: 33€
+
 
 <div class="box is-primary">
 Commande à faire à Nicolas par tel. 06 11 48 30 63 ou par courriel <a href="mailto:contact@ethikessence.com"> contact@ethikessence.com </a>
@@ -165,7 +172,6 @@ Commande à faire à Nicolas par tel. 06 11 48 30 63 ou par courriel <a href="ma
 - La boîte de 24 caramels 6,5€
 - Sirop de safran 5€
 - Vinaigre de cidre au safran 5€
-- 15 mini- sablés safran et caramel 4€
 - cracker safran/épices/graines 100 gr 4€
 
 Paniers cadeaux sur place.
