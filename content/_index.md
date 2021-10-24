@@ -100,21 +100,6 @@ Commande à faire à Clément au 06 14 64 18 53 ou par courriel : <a href="mailt
 {% end %}
 
 {% section(class="") %}
-## Châtaignes, jus de pommes & pâtes paysannes du GAEC du Marigot de NAJAC
-- **Jus de pommes** 3 €/litre
-- **Huile de colza** 6€ /litre ou 16 € bidon 3 litres
-- **Confitures de châtaignes bio** 380gr 5,5€
-- **Châtaignes entières** 480gr 6,3 €
-- **Pâtes	500 gr** : Fusilis, Coquillettes, Nouilles à 2.9€/paquet, Pate à potage à 2.95€,  Tagliatelles à 3.8€
-- **Pâtes  300 gr** : Pates à potage, Tagliatelles à 2.2€/paquet,  Linguinis à 2.3€
-
-<div class="box is-primary">
-Commande à faire à Laurent, Odile, Francis par tél. 05 65 65 77 43 ou par courriel : <a href="mailto:gaecdumarigot@gmail.com" > gaecdumarigot@gmail.com </a>
-</div>
-
-{% end %}
-
-{% section(class="has-background-grey-lighter") %}
 ## Miel de l’Abeille de Cadix du TARN en pot de 500 gr :
 - Acacia 8€
 - Sidobre 6.5€ (multifloral = chataîgnier et tilleul)
@@ -127,7 +112,7 @@ Commande à faire à Cyril par tel. 06 88 96 04 86 ou par courriel à <a href="m
 </div>
 {% end %}
 
-{% section(class="") %}
+{% section(class="has-background-grey-lighter") %}
 ## Fruits secs BIO de NICOLAS
 
 - Amandes décortiquées (Sicile) : 250g : 5,75€ / 2Kg : 28€
@@ -149,7 +134,7 @@ Commande à faire à Cyril par tel. 06 88 96 04 86 ou par courriel à <a href="m
 - Cranberries : 250g : 4.75€ / 2Kg : 26€
 - Bananes séchées : 250g : 4€ / 2.5Kg : 24.50€
 - Dattes Mazafati : 400g : 5.50€
-- Dattes Medjool : 2Kg : 25.50€/61€
+- Dattes Medjool : 2Kg : 25.50€/ 5kg: 61€
 - Quinoa blanche: 2kg : 12.90€
 - Riz Basmati semi complet (pakistan): 2kg : 9.50€
 - Sucre de Fleur coco: 2kg : 15.80€
@@ -164,7 +149,7 @@ Commande à faire à Nicolas par tel. 06 11 48 30 63 ou par courriel <a href="ma
 
 {% end %}
 
-{% section(class="has-background-grey-lighter") %}
+{% section(class="") %}
 ## Safran et confitures de NADIA
 
 - Safran en filaments (sur place de 5 à 30€)
