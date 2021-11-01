@@ -52,7 +52,7 @@ Les commandes sont à faire avant le  dimanche 14 novembre 2021
 
 - La charcuterie :
   - Fromages de tête (180gr 4€/ 280gr 6€)
-  - pâtés de campagne (180gr 4€),
+  - pâtés de campagne (180gr 4€)
   - pâtés au vin blanc (180gr 5€)
   - pâtés de foie à l’armagnac (180gr 5€)
   - pâtés aux baies genièvre (180gr 5€)
@@ -171,7 +171,7 @@ Commande à faire à Nadia par tél. 06 68 46 82 49 ou par courriel à : <a href
 
 {% section(class="has-background-grey-lighter") %}
 
-Les Pommes de Terre biologiques des  jardins de l’ALBARIE ferme agriculture biologique (12270 Bor-et-Bar)
+## Les Pommes de Terre biologiques des  jardins de l’ALBARIE ferme agriculture biologique à Bor-et-Bar
 
 - 17€ les 10kg et 9€ les 5kg
 
