@@ -48,7 +48,7 @@ Les commandes sont à faire avant le  dimanche 14 novembre 2021
 {% section(class="has-background-grey-lighter") %}
 ## Ferme de MALESCALIER
 
-- **Le cochon plein air** de la montagne noire élevés sans antibiotiques, sans OGM et sans activateurs de croissance :en colis sous vide de 5kg à 6kg environ (2 rôtis, sauté, côtes et saucisse fraîche) à 13.50€ le kg,
+- **Le cochon plein air (élevés sans antibiotiques, sans OGM et sans activateurs de croissance) de Jean Emile SANCHEZ et Isabelle** : en colis sous vide de 5kg à 6kg environ (2 rôtis, sauté, côtes et saucisse fraîche) à 13.50€ le kg,
 
 - La charcuterie :
   - Fromages de tête (180gr 4€/ 280gr 6€)
