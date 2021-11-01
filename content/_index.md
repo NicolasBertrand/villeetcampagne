@@ -48,17 +48,19 @@ Les commandes sont à faire avant le  dimanche 14 novembre 2021
 {% section(class="has-background-grey-lighter") %}
 ## Ferme de MALESCALIER
 
-- **Le cochon plein air** de la montagne noire : en colis sous vide de 5kg à 6kg environ (2 rôtis, sauté, côtes et saucisse fraîche) à 13,50€ le kg,
-- **La charcuterie**:
-    - Fromages de tête (180gr 4€/ 280gr 6€)
-    - pâtés de campagne (180gr 4€)
-    - pâtés au vin blanc (180gr 5€)
-    - pâtés aux baies genièvre (180gr 5€
-    - pâtés de foie à l’armagnac (180gr 5€)
-    - jambonneaux (280gr 7€)
-    - rillettes porc (180gr 6€)
-    - rillettes lapin (180gr 6€)
-    - Saucisson à l’ail  sous vide (poids entre 350 et 400gr à 20€/Kg)
+- **Le cochon plein air** de la montagne noire élevés sans antibiotiques, sans OGM et sans activateurs de croissance :en colis sous vide de 5kg à 6kg environ (2 rôtis, sauté, côtes et saucisse fraîche) à 13.50€ le kg,
+
+- La charcuterie :
+  - Fromages de tête (180gr 4€/ 280gr 6€)
+  - pâtés de campagne (180gr 4€),
+  - pâtés au vin blanc (180gr 5€)
+  - pâtés de foie à l’armagnac (180gr 5€)
+  - pâtés aux baies genièvre (180gr 5€)
+  - jambonneaux (280gr 7€)
+  - rillettes porc (180gr 6€)
+  - rillettes lapin (180gr 6€)
+  - Saucisson à l’ail  sous vide (poids entre 350 et 400gr à 25€/Kg)
+
 
 <div class="box is-primary">
 Commande à faire à <b>Jean-Emile Sanchez</b>  et <b>Isabelle Andrault</b> par tel. 06 48 35 14 48 / 06 42 09 61 02 ou par courriel à <a href="mailto:fermedemalescalier@hotmail.fr"> fermedemalescalier@hotmail.fr </a>
@@ -162,7 +164,28 @@ Commande à faire à Nicolas par tel. 06 11 48 30 63 ou par courriel <a href="ma
 Paniers cadeaux sur place.
 <div class="box is-primary">
 Commande à faire à Nadia par tél. 06 68 46 82 49 ou par courriel à : <a href="maito:nadia.angeli31@gmail.com"> nadia.angeli31@gmail.com </a>
+
 </div>
+
+{% end %}
+
+{% section(class="has-background-grey-lighter") %}
+
+Les Pommes de Terre biologiques des  jardins de l’ALBARIE ferme agriculture biologique (12270 Bor-et-Bar)
+
+- 17€ les 10kg et 9€ les 5kg
+
+- 3 variétés :
+    - Azilis : purée frites
+    - Eden : purée frites
+    - Chérie (rose) : vapeur sauté
+
+<div class="box is-primary">
+Commande à faire à Christelle Tardiveau au 06 03 96 67 44 ou par courriel : lesjardinsdelalbarie@gmail.com
+<a href="maito:lesjardinsdelalbarie@gmail.com"> lesjardinsdelalbarie@gmail.com </a>
+
+</div>
+
 {% end %}
 
 
