@@ -52,14 +52,16 @@ Les commandes sont à faire avant le  dimanche 14 novembre 2021
 
 - La charcuterie :
   - Fromages de tête (180gr 4€/ 280gr 6€)
-  - pâtés de campagne (180gr 4€)
+  - pâtés de campagne (180gr 4€/ 280gr 6€)
   - pâtés au vin blanc (180gr 5€)
   - pâtés de foie à l’armagnac (180gr 5€)
   - pâtés aux baies genièvre (180gr 5€)
   - jambonneaux (280gr 7€)
-  - rillettes porc (180gr 6€)
-  - rillettes lapin (180gr 6€)
-  - Saucisson à l’ail  sous vide (poids entre 350 et 400gr à 25€/Kg)
+  - rillettes de porc (180gr 6€)
+  - rillettes de lapin (180gr 6€)
+  - fricandeau sous vide (poids environ 250 gr - prix par pièce 7 € )
+  - bougnette sous vide (par pièce 5 €)
+  - saucisson à l’ail  sous vide (poids entre 250 et 300gr à 25€/Kg)
 
 
 <div class="box is-primary">
