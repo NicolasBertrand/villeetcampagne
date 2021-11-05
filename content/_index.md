@@ -65,7 +65,20 @@ Les commandes sont à faire avant le  dimanche 14 novembre 2021
 
 
 <div class="box is-primary">
-Commande à faire à <b>Jean-Emile Sanchez</b>  et <b>Isabelle Andrault</b> par tel. 06 48 35 14 48 / 06 42 09 61 02 ou par courriel à <a href="mailto:fermedemalescalier@hotmail.fr"> fermedemalescalier@hotmail.fr </a>
+Commande à faire à <b>Jean-Emile Sanchez</b>  et <b>Isabelle Andrault</b> par
+tel. 06 48 35 14 48 / 06 42 09 61 02 ou par courriel à <a
+href="mailto:fermedemalescalier@hotmail.fr"> fermedemalescalier@hotmail.fr </a> .
+
+<div class="mt-2 bt-2">
+Pour faciliter la commande, voici 2 formats de bon de commande: un en tableur
+OpenOffice et un en PDF pour ceux qui ne peuvent pas ouvrir le format
+OpenOffice.
+
+- [Bon de Commande au format tableur
+  OpenOffice](/commandeToulouseNovembre2021.ods)
+- [Bon de Commande au format pdf](/commandeToulouseNovembre2021.pdf)
+
+</div>
 </div>
 {% end %}
 
