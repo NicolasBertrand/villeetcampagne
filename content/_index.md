@@ -196,8 +196,7 @@ Commande à faire à Nadia par tél. 06 68 46 82 49 ou par courriel à : <a href
     - Chérie (rose) : vapeur sauté
 
 <div class="box is-primary">
-Commande à faire à Christelle Tardiveau au 06 03 96 67 44 ou par courriel : lesjardinsdelalbarie@gmail.com
-<a href="maito:lesjardinsdelalbarie@gmail.com"> lesjardinsdelalbarie@gmail.com </a>
+Commande à faire à Christelle Tardiveau au 06 03 96 67 44 ou par courriel : <a href="mailto:lesjardinsdelalbarie@gmail.com"> lesjardinsdelalbarie@gmail.com </a>
 
 </div>
 
