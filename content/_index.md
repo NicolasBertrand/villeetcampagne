@@ -35,7 +35,7 @@ Les commandes sont à faire avant le  dimanche 8 mai 2022
 {% section(class="") %}
 ## Union des fruitières Bio Comtoises de Lons le Saunier
 
-- **Comté bio** de 12 mois d’âge en part d’environ de 1,5kilos à 19.25€ le kilo
+- **Comté bio** de 12 mois d’âge en part d’environ de 1,5 kilos à 19.25€  le kilo
 - **Morbier bio** en sixième de meule (1 kg) à 15€ le kilo.
 
 <div class="box is-primary">
