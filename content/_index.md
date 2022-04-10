@@ -10,11 +10,11 @@
 <h1 class="title is-1"> Soirée "Ville/Campagne" <br/>
 </h1>
 
-<h2> Vendredi 26 novembre 2021 </h2>
+<h2> Vendredi 20 mai 2022 </h2>
 <h2> AMAP et de la Maison de quartier de Bagatelle </h2>
 
 <h3>
-Les produits sont à prendre de 17h 30 à 19 h 30 à la Maison de Quartier de Bagatelle
+Les produits sont à prendre de 187h30 à 21h00  à la Maison de Quartier de Bagatelle
 
 13 impasse du Bachaga Boualam 31100 Toulouse.
 
@@ -22,7 +22,7 @@ Le règlement se fera sur place à la livraison auprès de chaque producteur.
 
 </h3>
 <div class="notification is-danger">
-Les commandes sont à faire avant le  dimanche 14 novembre 2021
+Les commandes sont à faire avant le  dimanche 8 mai 2022
 </div>
 
 </div>
@@ -35,8 +35,8 @@ Les commandes sont à faire avant le  dimanche 14 novembre 2021
 {% section(class="") %}
 ## Union des fruitières Bio Comtoises de Lons le Saunier
 
-- **Comté bio** de 12 mois d’âge en part d’environ de 1,5kilos à 17.50€ le kilo
-- **Morbier bio** en sixième de meule (1 kg) à 14€ le kilo.
+- **Comté bio** de 12 mois d’âge en part d’environ de 1,5kilos à 19.25€ le kilo
+- **Morbier bio** en sixième de meule (1 kg) à 15€ le kilo.
 
 <div class="box is-primary">
  Commandes à faire à  <a href="mailto:villecamp@davionbertrand.net"> :villecamp@davionbertrand.net </a>
@@ -82,33 +82,11 @@ OpenOffice.
 </div>
 {% end %}
 
+
 {% section(class="") %}
-## Veau biologique du GAEC d’ES AQUI de NAJAC
-
-- **Aubrac croisé angus**, une viande persillée, âgé de 15/16 mois environ, en colis de 5kg / 75€ soit 15€/kg (1 rôti 800/900gr, 1 kg cotes premières et filet, 1 kg pot au feu/osso buco, 1 kg blanquette/ sauté de veau, 1,2kg escalopes dans la noix et la bavette). Ou en colis de 10 kg pour 145 €.
-- A part au choix :
-    - Filets mignon à 22 €/kg (4 de 1 kg),
-    - foie de veau à 18 €/kg (2kg),
-    - cœur à 12 €/kg (1 kg),
-    - 2 rognons à 10 €/kg,
-    - joue à 13 €/kg,
-    - langue 12 €/kg
-    - 1 queue à 12 €/kg
-
-- Fromage bio de vache:
-    - Tomme fraiche (pour aligot, truffade, pizza…) à 14€ le Kg
-    - Tomme affinée nature à 17€ le Kg.
-    - Tartinade (fromage frais aromatisé à tartiner) 3 choix: ail et fines herbes, bruschetta (tomate origan) et duo de poivrons, pot de 200g à 3€.
-
-<div class="box is-primary">
-Commande à faire à **Henri DARDE et Marion** par tél. 06 07 12 18 86 ou par courriel au gaec<a href="mailto:gaecdesaqui@yahoo.fr"> gaecdesaqui@yahoo.fr </a>
-</div>
-{% end %}
-
-{% section(class="has-background-grey-lighter") %}
 ## L’agneau biologique du QUERCY de Clément AILLET (bio depuis 1994)
 
-**Carton d’un demi-agneau** (7 à 10 kg) à 16€/kg sous-vide et étiqueté morceaux et poids - 13 côtelettes, gigot, collier, poitrine, épaule, les abats sur demande,
+**Carton d’un demi-agneau** (7 à 10 kg) à 17€/kg sous-vide et étiqueté morceaux et poids - 13 côtelettes, gigot, collier, poitrine, épaule, les abats sur demande,
 
 <div class="box is-primary">
 Commande à faire à Clément au 06 14 64 18 53 ou par courriel : <a href="mailto:ailletclement@gmail.com"> ailletclement@gmail.com </a>
@@ -116,18 +94,6 @@ Commande à faire à Clément au 06 14 64 18 53 ou par courriel : <a href="mailt
 
 {% end %}
 
-{% section(class="") %}
-## Miel de l’Abeille de Cadix du TARN en pot de 500 gr :
-- Acacia 8€
-- Sidobre 6.5€ (multifloral = chataîgnier et tilleul)
-- Chatagnier 6.5€
-- Montagne noire 6.5€ (multifloral = ronce, bruyère et autres fleurs sauvages)
-- Pays de Cocagne 4.5€ (multifloral = dominante tournesol)
-
-<div class="box is-primary">
-Commande à faire à Cyril par tel. 06 88 96 04 86 ou par courriel à <a href="mailto:viala.apiculture@gmail.com">viala.apiculture@gmail.com </a>
-</div>
-{% end %}
 
 {% section(class="has-background-grey-lighter") %}
 ## Fruits secs BIO de NICOLAS
@@ -179,24 +145,6 @@ Commande à faire à Nicolas par tel. 06 11 48 30 63 ou par courriel <a href="ma
 Paniers cadeaux sur place.
 <div class="box is-primary">
 Commande à faire à Nadia par tél. 06 68 46 82 49 ou par courriel à : <a href="maito:nadia.angeli31@gmail.com"> nadia.angeli31@gmail.com </a>
-
-</div>
-
-{% end %}
-
-{% section(class="has-background-grey-lighter") %}
-
-## Les Pommes de Terre biologiques des  jardins de l’ALBARIE ferme agriculture biologique à Bor-et-Bar
-
-- 17€ les 10kg et 9€ les 5kg
-
-- 3 variétés :
-    - Azilis : purée frites
-    - Eden : purée frites
-    - Chérie (rose) : vapeur sauté
-
-<div class="box is-primary">
-Commande à faire à Christelle Tardiveau au 06 03 96 67 44 ou par courriel : <a href="mailto:lesjardinsdelalbarie@gmail.com"> lesjardinsdelalbarie@gmail.com </a>
 
 </div>
 
