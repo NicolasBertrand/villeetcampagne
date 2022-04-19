@@ -7,22 +7,39 @@
 <div class="columns is-desktop">
 <div class="column is-8 is-offset-2 content has-text-centered">
 
-<h1 class="title is-1"> Soirée "Ville/Campagne" <br/>
+<h1 class="title is-1"> Soirée "Ville/Campagne" <strong> Vendredi 20 mai 2022</strong>
 </h1>
 
-<h2> Vendredi 20 mai 2022 </h2>
-<h2> AMAP et de la Maison de quartier de Bagatelle </h2>
+<h2> Organisée par l' AMAP et la Maison de quartier de Bagatelle </h2>
 
-<h3>
-Les produits sont à prendre de 187h30 à 21h00  à la Maison de Quartier de Bagatelle
+<div class="columns is-centered">
+  <div class="column is-half">
+  <figure class="image">
+    <img src="img/tisaneETkrolele.png">
+  </figure>
+ </div>
+  <div class="column">
+    <h2>
+         Concert de Tisane et Krolélé à 19h !
+    </h2>
+  </div>
+</div>
 
-13 impasse du Bachaga Boualam 31100 Toulouse.
 
+
+<div class="box">
+<div class="block">
+Les produits sont à prendre de  <strong> 18h30 à 21h00  à la Maison de Quartier de Bagatelle </strong> 13 impasse du Bachaga Boualam 31100 Toulouse.
+</div>
+
+<div class="block">
 Le règlement se fera sur place à la livraison auprès de chaque producteur.
+</div>
 
-</h3>
+</div>
+
 <div class="notification is-danger">
-Les commandes sont à faire avant le  dimanche 8 mai 2022
+Les commandes sont à faire avant le  <strong> dimanche 8 mai 2022 </strong>
 </div>
 
 </div>
@@ -35,7 +52,7 @@ Les commandes sont à faire avant le  dimanche 8 mai 2022
 {% section(class="") %}
 ## Union des fruitières Bio Comtoises de Lons le Saunier
 
-- **Comté bio** de 12 mois d’âge en part d’environ de 1,5 kilos à 19.25€  le kilo
+- **Comté bio** de 12 mois d’âge en part d’environ de 1,5 kilos à 19€ le kilo
 - **Morbier bio** en sixième de meule (1 kg) à 15€ le kilo.
 
 <div class="box is-primary">
