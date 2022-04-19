@@ -10,7 +10,7 @@
 <h1 class="title is-1"> Soirée "Ville/Campagne" <strong> Vendredi 20 mai 2022</strong>
 </h1>
 
-<h2> Organisée par l' AMAP et la Maison de quartier de Bagatelle </h2>
+<h2> Organisée par l'AMAP et la Maison de quartier de Bagatelle </h2>
 
 <div class="columns is-centered">
   <div class="column is-half">
