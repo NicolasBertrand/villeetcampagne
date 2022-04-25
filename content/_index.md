@@ -161,9 +161,33 @@ Commande à faire à Nicolas par tel. 06 11 48 30 63 ou par courriel <a href="ma
 
 Paniers cadeaux sur place.
 <div class="box is-primary">
-Commande à faire à Nadia par tél. 06 68 46 82 49 ou par courriel à : <a href="maito:nadia.angeli31@gmail.com"> nadia.angeli31@gmail.com </a>
+Commande à faire à Nadia par tél. 06 68 46 82 49 ou par courriel à : <a href="mailto:nadia.angeli31@gmail.com"> nadia.angeli31@gmail.com </a>
 
 </div>
+
+
+{% end %}
+
+{% section(class="has-background-grey-lighter") %}
+## Micro-Brasserie La Garonnette
+Nos bières sont brassées et embouteillées  sur place dans nos locaux  par notre équipe, pour vous proposer des produits de qualité, aux valeurs humaines et locales.
+Les matières premières sont principalement sourcées en France et nous souhaitons valoriser les entreprises françaises en collaborant au maximum avec des prestataires locaux (imprimeries, cartonneries, graphistes et autres professionnels).
+
+Sélection de bières
+- Blonde: 33cl / 2.5 € - 75cl - 5 €
+- Ambrée: 33cl / 2.5 € - 75cl - 5 €
+- Blanche: 33cl / 2.5 € - 75cl - 5 €
+- Session IPA: 33cl / 2.5 € - 75cl - 5 €
+- IPA: 33cl / 2.5 € - 75cl - 5 €
+
+
+<div class="box is-primary">
+Commande à faire au près de Benjamin par courriel à : <a href="mailto:contact@lagaronnette.fr"> contact@lagaronnette.fr </a>
+
+ [Bon de Commande au format tableur Excel et Remises](/Garonnette.xls)
+
+</div>
+
 
 {% end %}
 
