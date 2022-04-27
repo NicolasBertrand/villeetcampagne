@@ -92,8 +92,8 @@ OpenOffice et un en PDF pour ceux qui ne peuvent pas ouvrir le format
 OpenOffice.
 
 - [Bon de Commande au format tableur
-  OpenOffice](/commandeToulouseNovembre2021.ods)
-- [Bon de Commande au format pdf](/commandeToulouseNovembre2021.pdf)
+  OpenOffice](/commandeMalescalier.ods)
+- [Bon de Commande au format pdf](/commandeMalescalier.pdf)
 
 </div>
 </div>
