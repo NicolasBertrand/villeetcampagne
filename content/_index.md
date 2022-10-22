@@ -7,7 +7,7 @@
 <div class="columns is-desktop">
 <div class="column is-8 is-offset-2 content has-text-centered">
 
-<h1 class="title is-1"> Soirée "Ville/Campagne" <strong> Vendredi 20 mai 2022</strong>
+<h1 class="title is-1"> Soirée "Ville/Campagne" <strong> Vendredi 18 novembre 2022</strong>
 </h1>
 
 <h2> Organisée par l'AMAP et la Maison de quartier de Bagatelle </h2>
@@ -29,17 +29,17 @@
 
 <div class="box">
 <div class="block">
-Les produits sont à prendre de  <strong> 18h30 à 21h00  à la Maison de Quartier de Bagatelle </strong> 13 impasse du Bachaga Boualam 31100 Toulouse.
+Les produits sont à récupérer de  <strong> 18h30 à 21h00  à la Maison de Quartier de Bagatelle </strong> 13 impasse du Bachaga Boualam 31100 Toulouse.
 </div>
 
 <div class="block">
-Le règlement se fera sur place à la livraison auprès de chaque producteur.
+Le règlement des commanndes se fera sur place à la livraison auprès de chaque producteur.
 </div>
 
 </div>
 
 <div class="notification is-danger">
-Les commandes sont à faire avant le  <strong> dimanche 8 mai 2022 </strong>
+Les commandes sont à faire avant le  <strong> lundi 7 novembre  (heure limite : 23h54)  </strong>
 </div>
 
 </div>
@@ -51,12 +51,19 @@ Les commandes sont à faire avant le  <strong> dimanche 8 mai 2022 </strong>
 
 {% section(class="") %}
 ## Union des fruitières Bio Comtoises de Lons le Saunier
+<a href="https://www.biocomtois.fr/ufbc-production-de-comte-bio-dans-le-jura.htm" > Comté et morbier bio dans le Jura </a>
+<p>
+L'union des Fruitières Bio Comtoises (UFBC) est une structure économique qui permet la collaboration entre plusieurs fruitières villageoises sous forme coopérative. Les fruitières membres de l'UFBC produisent du Morbier et du Comté Bio dans le respect du cahier des charges des Appellations d’Origine Protégée.
+</p>
+<p>
+Produits uniquement avec du lait cru de vaches de races Montbéliarde et Simmental françaises nourries à partir d’herbe et de foin, le Morbier et le Comté Bio sont élaborés selon les critères des AOP et l'Agriculture Biologique.
+</p>
 
 - **Comté bio** de 12 mois d’âge en part d’environ de 1,5 kilos à 19€ le kilo
 - **Morbier bio** en sixième de meule (1 kg) à 15€ le kilo.
 
 <div class="box is-primary">
- Commandes à faire à  <a href="mailto:villecamp@davionbertrand.net"> :villecamp@davionbertrand.net </a>
+ Commandes à faire à :  <a href="mailto:villecamp@davionbertrand.net">villecamp@davionbertrand.net </a>
 </div>
 
 
@@ -65,20 +72,27 @@ Les commandes sont à faire avant le  <strong> dimanche 8 mai 2022 </strong>
 {% section(class="has-background-grey-lighter") %}
 ## Ferme de MALESCALIER
 
-- **Le cochon plein air (élevés sans antibiotiques, sans OGM et sans activateurs de croissance) de Jean Emile SANCHEZ et Isabelle** : en colis sous vide de 5kg à 6kg environ (2 rôtis, sauté, côtes et saucisse fraîche) à 13.50€ le kg,
+ **Le cochon plein air (élevés sans antibiotiques, sans OGM et sans activateurs de croissance) de Jean Emile SANCHEZ et Isabelle** : en colis sous vide de 5kg à 6kg environ (4 steaks hachés de porc,rôtis,côtes, saucisse fraiche et sauté ) à 15€ le kg,
+
+<p>
+Le prix au kg a augmenté à cause de la hausse du prix de l'alimentation de nos porcs, des frais de découpe et d'emballage.
+Pour les nouveaux, nos cochons sont élevés en plein air sans OGM, sans antibiotique et sans activateur de croissance.
+Tous nos produits sont sans conservateur et sans colorant.
+Toute la viande est conditionnée sous vide, les rôtis individuellement, la saucisse par paquet de 500 gr, le sauté par 500 gr, les côtes par 2 et les steaks hachés par 2.
+</p>
 
 - La charcuterie :
   - Fromages de tête (180gr 4€/ 280gr 6€)
-  - pâtés de campagne (180gr 4€/ 280gr 6€)
+  - pâtés de campagne (180gr 4€)
+  - Friton (180gr 5€)
   - pâtés au vin blanc (180gr 5€)
-  - pâtés de foie à l’armagnac (180gr 5€)
   - pâtés aux baies genièvre (180gr 5€)
-  - jambonneaux (280gr 7€)
+  - pâtés forestier (180gr 5€)
+  - pâtés de foie de porc à l’armagnac (180gr 5€)
   - rillettes de porc (180gr 6€)
-  - rillettes de lapin (180gr 6€)
-  - fricandeau sous vide (poids environ 250 gr - prix par pièce 7 € )
-  - bougnette sous vide (par pièce 5 €)
-  - saucisson à l’ail  sous vide (poids entre 250 et 300gr à 25€/Kg)
+  - Effiloché de coche (180gr 6€)
+  - jambonneaux (280gr 7€)
+  - Saucisse sèche sous vide par pli à vendre sur place  (28€ /kg)
 
 
 <div class="box is-primary">
@@ -108,86 +122,6 @@ OpenOffice.
 <div class="box is-primary">
 Commande à faire à Clément au 06 14 64 18 53 ou par courriel : <a href="mailto:ailletclement@gmail.com"> ailletclement@gmail.com </a>
 </div>
-
-{% end %}
-
-
-{% section(class="has-background-grey-lighter") %}
-## Fruits secs BIO de NICOLAS
-
-- Amandes décortiquées (Sicile) : 250g : 5,75€ / 2Kg : 28€
-- Noisettes décortiquées : 250g : 5€ / 2kg : 26.90€
-- Noix de cajou (Sénégal) : 250g : 5€ / 2Kg : 30€
-- Noix de cajou grillée Nature ou Noix de cajou grillée au Sel : 2Kg : 32€
-- Noix de cajou Brisées : 2Kg : 21.90€
-- Noix du Brésil : 2Kg : 34€
-- Cerneaux de noix: 250g:5€ / 2kg:27€
-- Pistaches en coques grillées Salées: 1kg: 21€
-- Abricots secs : 1kg: 10.50€
-- Figues Lérida: 1kg:10€
-- Noix de Macadamia : 100g : 4.50€ / 1Kg : 30€
-- Arachides salée : 250g 3.50€ / 1kg : 8.50€
-- Mangue séchée : 200g 4.90€ / 2kg : 29€
-- Gingembre confit cube : 100g : 2.30€ / 2Kg : 21
-- Ananas séché Rondelles Pleines : 1Kg : 18€
-- Mélange de fruits secs : 250g : 4.50€ / 2kg : 25€
-- Cranberries : 250g : 4.75€ / 2Kg : 26€
-- Bananes séchées : 250g : 4€ / 2.5Kg : 24.50€
-- Dattes Mazafati : 400g : 5.50€
-- Dattes Medjool : 2Kg : 25.50€/ 5kg: 61€
-- Quinoa blanche: 2kg : 12.90€
-- Riz Basmati semi complet (pakistan): 2kg : 9.50€
-- Sucre de Fleur coco: 2kg : 15.80€
-- Graine de Chia: 2kg : 15.80
-- Graines de courge: 2kg : 15.50
-- Baies de Goji : 2kg: 33€
-
-
-<div class="box is-primary">
-Commande à faire à Nicolas par tel. 06 11 48 30 63 ou par courriel <a href="mailto:contact@ethikessence.com"> contact@ethikessence.com </a>
-</div>
-
-{% end %}
-
-{% section(class="") %}
-## Safran et confitures de NADIA
-
-- Safran en filaments (sur place de 5 à 30€)
-- Confitures 220ml (figues, lait, fraises, oranges confites, pommes confites) 5€
-- La boîte de 24 caramels 6,5€
-- Sirop de safran 5€
-- Vinaigre de cidre au safran 5€
-- cracker safran/épices/graines 100 gr 4€
-
-Paniers cadeaux sur place.
-<div class="box is-primary">
-Commande à faire à Nadia par tél. 06 68 46 82 49 ou par courriel à : <a href="mailto:nadia.angeli31@gmail.com"> nadia.angeli31@gmail.com </a>
-
-</div>
-
-
-{% end %}
-
-{% section(class="has-background-grey-lighter") %}
-## Micro-Brasserie La Garonnette
-Nos bières sont brassées et embouteillées  sur place dans nos locaux  par notre équipe, pour vous proposer des produits de qualité, aux valeurs humaines et locales.
-Les matières premières sont principalement sourcées en France et nous souhaitons valoriser les entreprises françaises en collaborant au maximum avec des prestataires locaux (imprimeries, cartonneries, graphistes et autres professionnels).
-
-Sélection de bières
-- Blonde: 33cl / 2.5 € - 75cl - 5 €
-- Ambrée: 33cl / 2.5 € - 75cl - 5 €
-- Blanche: 33cl / 2.5 € - 75cl - 5 €
-- Session IPA: 33cl / 2.5 € - 75cl - 5 €
-- IPA: 33cl / 2.5 € - 75cl - 5 €
-
-
-<div class="box is-primary">
-Commande à faire au près de Benjamin par courriel à : <a href="mailto:contact@lagaronnette.fr"> contact@lagaronnette.fr </a>
-
- [Bon de Commande au format tableur Excel et Remises](/Garonnette.xls)
-
-</div>
-
 
 {% end %}
 
