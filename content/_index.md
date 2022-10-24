@@ -60,7 +60,8 @@ Produits uniquement avec du lait cru de vaches de races Montbéliarde et Simment
 </p>
 
 - **Comté bio** de 12 mois d’âge en part d’environ de 1,5 kilos à 19€ le kilo
-- **Morbier bio** en sixième de meule (1 kg) à 15€ le kilo.
+- **Morbier bio** en sixième de meule (environ 1 kg) à 15€ le kilo.
+- **Raclette bio** en sixième de meule (environ 1 kg) à 15€ le kilo.
 
 <div class="box is-primary">
  Commandes à faire à :  <a href="mailto:villecamp@davionbertrand.net">villecamp@davionbertrand.net </a>
