@@ -126,4 +126,22 @@ Commande à faire à Clément au 06 14 64 18 53 ou par courriel : <a href="mailt
 
 {% end %}
 
+{% section(class="has-background-grey-lighter") %}
+## Safran et confitures de NADIA
+
+- Safran en filaments (sur place de 5 à 30€)
+- Confitures 220ml (figues, lait, fraises, oranges confites, pommes confites) 5€
+- La boîte de 24 caramels 6,5€
+- Sirop de safran 5€
+- Vinaigre de cidre au safran 5€
+- cracker safran/épices/graines 100 gr 4€
+
+Paniers cadeaux sur place.
+<div class="box is-primary">
+Commande à faire à Nadia par tél. 06 68 46 82 49 ou par courriel à : <a href="mailto:nadia.angeli31@gmail.com"> nadia.angeli31@gmail.com </a>
+
+</div>
+
+
+{% end %}
 
