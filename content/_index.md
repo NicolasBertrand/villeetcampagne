@@ -81,6 +81,7 @@ Pour les nouveaux, nos cochons sont élevés en plein air sans OGM, sans antibio
 Tous nos produits sont sans conservateur et sans colorant.
 Toute la viande est conditionnée sous vide, les rôtis individuellement, la saucisse par paquet de 500 gr, le sauté par 500 gr, les côtes par 2 et les steaks hachés par 2.
 </p>
+ <a href="https://www.facebook.com/profile.php?id=100057738126712" > Page facebook </a>
 
 - La charcuterie :
   - Fromages de tête (180gr 4€/ 280gr 6€)
@@ -139,6 +140,22 @@ Commande à faire à Clément au 06 14 64 18 53 ou par courriel : <a href="mailt
 Paniers cadeaux sur place.
 <div class="box is-primary">
 Commande à faire à Nadia par tél. 06 68 46 82 49 ou par courriel à : <a href="mailto:nadia.angeli31@gmail.com"> nadia.angeli31@gmail.com </a>
+
+</div>
+
+
+{% end %}
+
+{% section(class="") %}
+##  La semoule de couscous de la coopérative de femmes <a href="https://fr-ca.facebook.com/tizindoc/videos/la-coop%C3%A9rative-de-femmes-yamna-zaouiat-cheikh-maroc/197171384506055/" > YAMNA du MAROC </a>
+ <a href="https://fr-ca.facebook.com/tizindoc" > Page facebook </a>
+
+- Semoule de couscous 5 céréales 500g 3,50€
+- Semoule de couscous 5 céréales aux amandes 500g 4€
+- Semoule de couscous sans gluten 500g 4€
+- Zemitta 250g 3,50€
+<div class="box is-primary">
+Commande à faire à Jacqueline par courriel à : <a href="mailto:tizindoc@gmail.com"> tizindoc@gmail.com</a>
 
 </div>
 
